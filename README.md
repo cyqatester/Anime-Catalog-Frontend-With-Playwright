@@ -1,5 +1,11 @@
 # Anime Catalog Frontend with Playwright
 
+UI Automation Test using Playwright
+<p>
+<picture>
+  <img width="1280" height="720" alt="Anime_Catalog_Frontend_Playwright_Test" src="https://github.com/user-attachments/assets/648b3333-823c-480e-ad1d-3172c13b5174" />
+</picture>  
+</p>
 React + Vite + TypeScript frontend for the Anime Catalog Spring Boot backend.
 
 ## Run locally
@@ -82,3 +88,27 @@ Do not rely on the old `X-Username` demo header. The frontend no longer sends it
 - Anime CRUD endpoints for admins
 
 Check Swagger and update the API adapters if your backend uses different paths or DTOs.
+
+## UI Preview
+
+### Login
+<img width="317" height="349" alt="image" src="https://github.com/user-attachments/assets/cd4c9697-3a0a-4ddb-a898-286543fe7dcb" />
+
+### Admin User Dashboard
+<img width="927" height="580" alt="image" src="https://github.com/user-attachments/assets/abe4019e-ccca-453e-b8b0-c2b394abc07b" />
+
+### Anime Catalog
+<img width="919" height="684" alt="image" src="https://github.com/user-attachments/assets/cdf46415-f6b0-42a3-b2c4-1f872b6cc4ef" />
+
+### Genres
+<img width="929" height="683" alt="image" src="https://github.com/user-attachments/assets/bf5d35ca-ebb4-490e-b5f0-de6f405a64ce" />
+
+### Users
+<img width="929" height="375" alt="image" src="https://github.com/user-attachments/assets/55aac4ab-de71-4fc2-8cfe-59b9285fbd1c" />
+
+
+
+
+
+
+
