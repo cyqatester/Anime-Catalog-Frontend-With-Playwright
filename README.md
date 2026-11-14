@@ -31,8 +31,9 @@ Tests, page objects, fixtures, and Playwright configuration are in `e2e/` and `p
 ## Continuous integration
 
 The GitHub Actions workflow at `.github/workflows/ci.yml` runs on pushes and pull
-requests. It installs dependencies and Playwright Chromium, builds the frontend,
-and runs the end-to-end tests.
+requests. It caches `node_modules` and Playwright Chromium using the lockfile,
+installs them only on a cache miss, installs required system libraries, builds
+the frontend, and runs the end-to-end tests.
 
 ## Authentication contract required
 
